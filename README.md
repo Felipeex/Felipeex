@@ -19,3 +19,6 @@ All the languages below are either present daily in my studies or I master a lar
 
 #### 🥰 Databases
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+#### 👋 Visitas
+<img src="https://profile-counter.glitch.me/Felipeex/count.svg" />
