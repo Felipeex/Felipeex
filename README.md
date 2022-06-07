@@ -1,7 +1,9 @@
-### Hi there 👋
+### Olá 👋
 
-Developer in search of knowledge.<br>
-All the languages below are either present daily in my studies or I master a large part.
+Prazer, me chamo Felipe Tenho 16 Anos. Sou desenvolvedor Full-Stack Por volta de 2 Anos. Atualmente estudando todos dias e me dedicando.
+
+Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo), e Estudar muito para alcançar meu sonho.
+Tenho 1 Ano de experiência de Mercado com Freelancer, e Atualmente me considero um Desenvolvendor Junior.
 
 #### 🧐 Languages
 
@@ -9,14 +11,9 @@ All the languages below are either present daily in my studies or I master a lar
 
 #### 💻 Frameworks & Libraries
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/><img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-<img alt="VUE" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-
 
 #### 🔨 Version Control
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-
-#### 🏫 Education
-<img alt="Udemy" src="https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white"/>
 
 #### 🥰 Databases
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
