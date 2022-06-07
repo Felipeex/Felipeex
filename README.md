@@ -6,7 +6,7 @@ Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo), e Estu
 Tenho 1 Ano de experiência de Mercado com Freelancer, e Atualmente me considero um Desenvolvendor Junior.
 
 Atualmente trabalhando com ReactJs, NodeJs e aprimorando meu conhecimento em TypeScript e NextJs.
-Conhecimento em Html, Css, Js, Vue, Mateial UI...
+Conhecimento em Html, Css, Js, Vue, Mateial UI, Mysql...
 
 Em busca do Full Cycle 🚀
 
