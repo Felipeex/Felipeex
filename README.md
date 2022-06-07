@@ -9,3 +9,5 @@ Atualmente trabalhando com ReactJs, NodeJs e aprimorando meu conhecimento em Typ
 Conhecimento em Html, Css, Js, Vue, Mateial UI...
 
 Em busca do Full Cycle 🚀
+
+Entre em contato comigo! felipeexx48@gmail.com
