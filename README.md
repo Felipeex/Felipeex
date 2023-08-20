@@ -1,10 +1,8 @@
 ### Olá 👋
 
-Prazer, me chamo Felipe. Sou desenvolvedor Full-Stack, Estou na área Por volta de 2 Anos. Atualmente estudando todos dias e me dedicando.
-Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo), Meu objetivo é criar uma fundação sólida de tecnologias para transformar ideias em soluções.
+Prazer, me chamo Felipe. Sou desenvolvedor Full-Stack, Estou na área Por volta de 3 Anos. Atualmente aprendendo e me dedicado todos dias.
+Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo), Meu objetivo é transformar ideias em soluções usando código.
 
-Atualmente trabalhando com ReactJs, NodeJs e aprimorando meu conhecimento em TypeScript e NextJs.
-
-Em busca do Full Cycle 🚀
+Atualmente trabalhando com `react.js/next.js` e `node.js/nest.js`, e aprimorando meu conhecimento em DevOps.
 
 Entre em contato comigo! felipeexx48@gmail.com
