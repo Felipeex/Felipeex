@@ -8,12 +8,12 @@ Entre em contato comigo! felipeexx48@gmail.com
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,ts,jenkins,jest,linux,lua,mysql,nestjs,mongodb,nextjs,nginx,nodejs,postgres,prisma,react,redis,sass,tailwind,vscode,express,vite,redux,vim,graphql,html,bootstrap,apollo,electron,threejs" />
+    <img src="https://skillicons.dev/icons?i=docker,ts,jenkins,jest,linux,lua,mysql,nestjs,mongodb,nextjs,nginx,nodejs,postgres,prisma,react,redis,sass,tailwind,vscode,express,vite,redux,vim,graphql,html,bootstrap,apollo,electron,threejs,c" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vitest,webpack,c" />
+    <img src="https://skillicons.dev/icons?i=vitest,webpack" />
   </a>
 </p>
