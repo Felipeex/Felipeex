@@ -6,6 +6,8 @@ Tenho experiencia com liderança de equipe, e gestão de projeto. Sou bem flexí
 
 Entre em contato comigo! felipeexx48@gmail.com
 
+"A única maneira de fazer algo excelente é amar o que você faz. Se você ainda não encontrou, continue procurando. Não se acomode.", Steve jobs
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,ts,jenkins,jest,linux,lua,mysql,nestjs,mongodb,nextjs,nginx,nodejs,postgres,prisma,react,redis,sass,tailwind,vscode,express,vite,redux,vim,graphql,html,bootstrap,apollo,electron,threejs,c" />
