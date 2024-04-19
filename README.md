@@ -8,14 +8,14 @@ Entre em contato comigo! felipeexx48@gmail.com
 
 "A única maneira de fazer algo excelente é amar o que você faz. Se você ainda não encontrou, continue procurando. Não se acomode.", Steve jobs
 
-<p align="center">
+<p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,ts,jenkins,jest,linux,lua,mysql,nestjs,mongodb,nextjs,nginx,nodejs,postgres,prisma,react,redis,sass,tailwind,vscode,express,vite,redux,vim,graphql,html,bootstrap,apollo,electron,threejs,c" />
+    <img src="https://skillicons.dev/icons?i=docker,ts,jenkins,jest,linux,lua,mysql,nestjs,mongodb,nextjs,nginx,nodejs,postgres,prisma,react,redis,sass,tailwind,vscode,express,vite,redux,vim,graphql,html,bootstrap,apollo,electron,threejs,c" width="65%"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vitest,webpack" />
+    <img src="https://skillicons.dev/icons?i=vitest,webpack" width="7.5%"/>
   </a>
 </p>
