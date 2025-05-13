@@ -4,7 +4,7 @@ Olá, me chamo Felipe Lima Santos, mais conhecido como "Felipeex". Atualmente tr
 
 Sou bem flexível, e posso lidar com diferentes tipos de situações, dentro e fora do código. Meu real objetivo é transformar ideias em soluções, usando código.
 
-Entre em contato comigo! felipeexx48@gmail.com
+Entre em contato comigo! felipeex.dev@icloud.com
 
 "A única maneira de fazer algo excelente é amar o que você faz. Se você ainda não encontrou, continue procurando. Não se acomode.", Steve jobs
 
